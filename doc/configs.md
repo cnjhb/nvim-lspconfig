@@ -13655,7 +13655,7 @@ Default config:
 
 ## vala_ls
 
-https://github.com/Prince781/vala-language-server
+https://github.com/vala-lang/vala-language-server
 
 Snippet to enable the language server:
 ```lua
